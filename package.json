@@ -1,0 +1,29 @@
+{
+  "name": "@invisiblewater/playerbankservice",
+  "version": "1.0.0",
+  "description": "Singleton for centralized handling of in-game currency in Roblox games.",
+  "keywords": [
+    "Roblox",
+    "Nevermore",
+    "Luau",
+    "playerbankservice"
+  ],
+  "homepage": "https://github.com/InvisibleWater/PlayerBankService#readme",
+  "bugs": {
+    "url": "https://github.com/InvisibleWater/PlayerBankService/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InvisibleWater/PlayerBankService.git"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/InvisibleWater"
+  },
+  "license": "MIT",
+  "author": "InvisibleWater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
