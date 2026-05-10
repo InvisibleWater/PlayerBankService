@@ -1,0 +1,16 @@
+*.sublime-workspace
+*.rbxl.lock
+node_modules
+out
+roblox.toml
+roblox.yml
+aftman.toml
+selene.toml
+.env
+build
+sourcemap.json
+dist
+*.tsbuildinfo
+.DS_Store
+globalTypes.d.lua
+*.vsix
