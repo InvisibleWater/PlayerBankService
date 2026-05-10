@@ -1,6 +1,6 @@
 {
   "name": "@invisiblewater/playerbankservice",
-  "version": "1.0.0",
+  "version": "2.0.1",
   "description": "Singleton for centralized handling of in-game currency in Roblox games.",
   "keywords": [
     "Roblox",
